@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/emulate-cubes/static/css/main.d5c5affc.chunk.css",
+    "main.js": "/emulate-cubes/static/js/main.46dc768b.chunk.js",
+    "main.js.map": "/emulate-cubes/static/js/main.46dc768b.chunk.js.map",
+    "runtime-main.js": "/emulate-cubes/static/js/runtime-main.7682ab21.js",
+    "runtime-main.js.map": "/emulate-cubes/static/js/runtime-main.7682ab21.js.map",
+    "static/js/2.7451d95c.chunk.js": "/emulate-cubes/static/js/2.7451d95c.chunk.js",
+    "static/js/2.7451d95c.chunk.js.map": "/emulate-cubes/static/js/2.7451d95c.chunk.js.map",
+    "index.html": "/emulate-cubes/index.html",
+    "precache-manifest.7bf5588059393c055624b641c42b6313.js": "/emulate-cubes/precache-manifest.7bf5588059393c055624b641c42b6313.js",
+    "service-worker.js": "/emulate-cubes/service-worker.js",
+    "static/css/main.d5c5affc.chunk.css.map": "/emulate-cubes/static/css/main.d5c5affc.chunk.css.map",
+    "static/js/2.7451d95c.chunk.js.LICENSE": "/emulate-cubes/static/js/2.7451d95c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7682ab21.js",
+    "static/js/2.7451d95c.chunk.js",
+    "static/css/main.d5c5affc.chunk.css",
+    "static/js/main.46dc768b.chunk.js"
+  ]
+}
