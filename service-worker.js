@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/emulate-cubes/precache-manifest.7bf5588059393c055624b641c42b6313.js"
+  "/emulate-cubes/precache-manifest.b241da4ef360bec500f664a06caf4ded.js"
 );
 
 self.addEventListener('message', (event) => {
